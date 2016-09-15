@@ -1,0 +1,11 @@
+*
+!.gitignore
+
+# Ignore everything Except
+!*.sln
+!*.vcxproj*
+!*.c
+!*.h
+!*.cpp
+!*.cs
+!*.ico
